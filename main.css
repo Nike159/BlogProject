@@ -124,3 +124,6 @@ table, tr, th, td, caption{
     height: 1px;
     border-radius: 0%;
  }
+.intro {
+    text-align: center;
+}
